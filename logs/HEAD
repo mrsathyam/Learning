@@ -1,3 +1,4 @@
 0000000000000000000000000000000000000000 73e65bd85c61763b557e3566f21eed55864f70c1 SATHYAM <sxxhxxm.xsx@gmail.com> 1483800160 +0530	clone: from https://github.com/mrsathyam/Learning.git
 73e65bd85c61763b557e3566f21eed55864f70c1 1613a4ad3f619617ba3003d940d479a1ad8d7eb2 SATHYAM <sxxhxxm.xsx@gmail.com> 1483801420 +0530	commit: add test file
 1613a4ad3f619617ba3003d940d479a1ad8d7eb2 d1c2f7f0e81a83fdf808f92d054e754f7d7c91e3 SATHYAM <sxxhxxm.xsx@gmail.com> 1483803337 +0530	commit: test file is moved to src dir
+d1c2f7f0e81a83fdf808f92d054e754f7d7c91e3 d7830697ce6df6727f2a8848a3d53901c6a943d1 SATHYAM <sxxhxxm.xsx@gmail.com> 1483821855 +0530	commit: edited the sathya.c and compiled
